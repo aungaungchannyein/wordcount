@@ -23,11 +23,7 @@ body {
   z-index: -1;
   height: 254px;
   width: 100%;
-  background-image: linear-gradient(
-      to right,
-      rgba(101, 0, 163, 0.9),
-      rgba(24, 120, 175, 0.9)
-    ),
+  background-image: 
     url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMTBfZGVlcF9waW5lX2ZvcmVzdF9iYWNrZ3JvdW5kX19oaW50X29mX3ByZWNpc2lvbl9hMTRmMjkzNy1mZDM2LTQyMzQtYmI5MS1kMjMyZmQ5Njk3OTFfMS5qcGc.jpg");
 }
 
